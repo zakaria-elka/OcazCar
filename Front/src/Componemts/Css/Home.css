@@ -1,0 +1,68 @@
+.homeapp::after {
+    content: "";
+    background-image: url("../images/background.jpg");
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 40%;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+    background-size: cover;
+  }
+
+
+.txt{
+    
+    position: absolute;
+    left: 34%;
+    top: 15%;
+    
+    
+    }
+
+.txt p{
+
+    color:#2087fc;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    width: 100%;
+  
+
+}    
+
+#input{
+
+width: 200px;
+background-color:  #f4f6f7  ;
+box-shadow: 2px 2px 10px  #d0d3d4 ;
+text-align: center;
+
+
+}
+
+#inputDiv{
+
+    width: 210px;
+    margin-left: 23%;
+    border-radius: 5px;
+    background-color: #fbfcfc ;
+    text-align: center;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    
+    }
+
+#button{
+
+background-color: orange;
+width: 30px;
+height: 30px;
+
+}    
+
+img{
+    margin-left: 5px;
+
+}

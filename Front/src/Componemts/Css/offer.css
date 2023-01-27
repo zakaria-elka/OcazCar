@@ -1,0 +1,25 @@
+.vcard{
+
+
+height: 250px;
+margin: 10px;
+
+}
+
+.div{
+
+display: flex;
+flex-direction: row;
+position: absolute;
+top:15%;
+left: 5%;
+flex-wrap: wrap;
+
+}
+
+p{
+
+    width: 400px;
+
+}
+
